@@ -1,0 +1,13 @@
+C:\Users\spy_w\Downloads\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\MyFirstPlugin\bin\Debug\MyFirstPlugin.dll
+C:\Users\spy_w\Downloads\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\MyFirstPlugin\bin\Debug\MyFirstPlugin.pdb
+C:\Users\spy_w\Downloads\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\MyFirstPlugin\bin\Debug\PhotonHivePlugin.dll
+C:\Users\spy_w\Downloads\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.csprojAssemblyReference.cache
+C:\Users\spy_w\Downloads\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.csproj.CopyComplete
+C:\Users\spy_w\Downloads\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.dll
+C:\Users\spy_w\Downloads\Photon-OnPremise-Server-Plugin-SDK_v4-0-29-11263\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.pdb
+D:\Testing\PhotonServer\src-server\Plugins\MyFirstPlugin\bin\Debug\MyFirstPlugin.dll
+D:\Testing\PhotonServer\src-server\Plugins\MyFirstPlugin\bin\Debug\MyFirstPlugin.pdb
+D:\Testing\PhotonServer\src-server\Plugins\MyFirstPlugin\bin\Debug\PhotonHivePlugin.dll
+D:\Testing\PhotonServer\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.csproj.CopyComplete
+D:\Testing\PhotonServer\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.dll
+D:\Testing\PhotonServer\src-server\Plugins\MyFirstPlugin\obj\Debug\MyFirstPlugin.pdb
